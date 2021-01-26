@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channel><item><title><![CDATA[entre-em-contato]]></title><slug>entre-em-contato</slug><value><![CDATA[&lt;h3&gt;Informações para contato&lt;/h3&gt;
+&lt;div class=&quot;item wow slideInUp&quot;&gt;
+   &lt;i class=&quot;fa fa-phone&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; +55 19 1234-5678
+&lt;/div&gt;
+&lt;div class=&quot;item wow slideInUp&quot;&gt;
+   &lt;i class=&quot;fa fa-envelope&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; comercial@marllostransportes.com.br
+&lt;/div&gt;
+&lt;div class=&quot;item wow slideInUp&quot;&gt;
+&lt;i class=&quot;fa fa-mail-forward&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Rua Dona Maria Quedas, 228 - Jardim Andaraí São Paulo
+  &lt;/div&gt;
+&lt;div class=&quot;item wow slideInUp&quot;&gt;
+   &lt;i class=&quot;fa fa-whatsapp&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;a href=&quot;https://api.whatsapp.com/send?phone=5519912345678&amp;text=Estive%20no%20site%20e%20quero%20mais%20informacoes%20sobre%20os%20seus%20serviços!%20Fico%20no%20aguardo.&quot; target=&quot;_blank&quot;&gt;Chamar no WhatsApp&lt;/a&gt;
+&lt;/div&gt;
+					
+		
+]]></value></item><item><title><![CDATA[footer-copyright]]></title><slug>footer-copyright</slug><value><![CDATA[&lt;p&gt;© &lt;?php echo date(&#039;Y&#039;); ?&gt; - &lt;?php echo get_site_name(); ?&gt;&lt;/p&gt; &lt;p&gt;CNPJ: 13.092.128/0001-74&lt;/p&gt;]]></value></item><item><title><![CDATA[header-logo]]></title><slug>header-logo</slug><value><![CDATA[&lt;a href=&quot;/&quot; title=&quot;Marllos Transportes&quot;&gt;&lt;img src=&quot;http://www.marllostransportes.com.br/data/uploads/logo.png&quot; alt=&quot;Marllos Transportes&quot; class=&quot;img-responsive&quot; /&gt;&lt;/a&gt;]]></value></item><item><title><![CDATA[image-home]]></title><slug>image-home</slug><value><![CDATA[&lt;img class=&quot;img-responsive&quot; src=&quot;http://www.marllostransportes.com.br/data/uploads/logo.png&quot;&gt;]]></value></item><item><title><![CDATA[servicos-oferecidos]]></title><slug>servicos-oferecidos</slug><value><![CDATA[&lt;div class=&quot;container&quot;&gt;
+	&lt;h1&gt;&lt;span&gt;Serviços&lt;/span&gt;&lt;/h1&gt;
+	&lt;div class=&quot;item-wrapper col-md-6&quot;&gt;
+		&lt;div class=&quot;item&quot;&gt;
+			&lt;img src=&quot;data/uploads/servicos/servico1.jpg&quot; alt=&quot;Serviço 1&quot; class=&quot;img-responsive&quot; /&gt;
+			&lt;div class=&quot;right&quot;&gt;
+				&lt;h3&gt;Máquinas e equipamentos&lt;/h3&gt;
+				&lt;p&gt;Cargas excedentes, máquinas para a construção civil, máquinas e implementos agrícolas, metalúrgicos, entre outros. &lt;/p&gt;
+				&lt;a  href=&quot;/servicos/maquinas-e-equipamentos&quot; class=&quot;btn btn-default&quot;&gt;Saiba Mais&lt;/a&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+		&lt;div class=&quot;item-wrapper col-md-6&quot;&gt;
+		&lt;div class=&quot;item&quot;&gt;
+			&lt;img src=&quot;data/uploads/servicos/servico2.jpg&quot; alt=&quot;Serviço 2&quot; class=&quot;img-responsive&quot; /&gt;
+			&lt;div class=&quot;right&quot;&gt;
+				&lt;h3&gt;Cargas Gerais&lt;/h3&gt;
+				&lt;p&gt;Insumos e produtos dos setores papel e celulose, siderurgia, alimentícios, químicos, agrícolas, dentre outros.&lt;/p&gt;
+				&lt;a  href=&quot;/servicos/cargas-gerais&quot; class=&quot;btn btn-default&quot;&gt;Saiba Mais&lt;/a&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;	&lt;div class=&quot;item-wrapper col-md-12&quot;&gt;
+		&lt;div class=&quot;item&quot;&gt;
+			&lt;img src=&quot;data/uploads/servicos/servico3.jpg&quot; alt=&quot;Serviço 3&quot; class=&quot;img-responsive&quot; /&gt;
+			&lt;div class=&quot;right&quot;&gt;
+				&lt;h3&gt;Operações Especiais&lt;/h3&gt;
+				&lt;p&gt;Especializados em operações de elevado grau de complexidade, que requerem alto índice de eficiência.&lt;/p&gt;
+				&lt;a  href=&quot;/servicos/operacoes-especiais&quot; class=&quot;btn btn-default&quot;&gt;Saiba Mais&lt;/a&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;	
+&lt;/div&gt;]]></value></item><item><title><![CDATA[texto-home]]></title><slug>texto-home</slug><value><![CDATA[&lt;h1&gt;&lt;span&gt;Sobre a empresa&lt;/span&gt;&lt;/h1&gt;
+						&lt;p&gt;Somos especializados no transporte de cargas gerais, máquinas e equipamentos. Atuamos em todo território nacional, com segurança, eficiência e agilidade. Contamos com escritórios informatizados, tecnologia de ponta e funcionários treinados e especializados para cada operação. Estamos localizados na cidade de São Paulo,  com vários escritórios de apoio nas principais capitais do país para melhor atender nossos clientes.&lt;/p&gt;
+&lt;a href=&quot;/sobre/&quot; class=&quot;btn&quot;&gt;Leia mais&lt;/a&gt;]]></value></item></channel>

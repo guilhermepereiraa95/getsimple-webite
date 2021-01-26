@@ -1,0 +1,26 @@
+#banner{z-index: 200;}
+#banner .carousel-indicators {bottom: 0;}
+#banner .carousel-control.right,
+#banner .carousel-control.left {background-image: none;}
+#banner.carousel .item {height: 100%; width:100%;}
+#banner .carousel-inner .item .container {position: relative; height: 100%;}
+#banner .carousel-control {width: 6%; text-shadow: none;}
+#banner .carousel-indicators li {width: 14px; height: 14px; background-color: rgba(255,255,255,.4); border:none;}
+#banner .carousel-indicators .active{width: 16px; height: 16px; background-color: #fff; border:none;}
+#banner.carousel-fade .carousel-inner .item {-webkit-transition-property: opacity; transition-property: opacity;}
+#banner.carousel-fade .carousel-inner .item p{font-weight: bold; text-shadow: 1px 1px 2px #FFF;}
+#banner.carousel-fade .carousel-inner .item,
+#banner.carousel-fade .carousel-inner .active.left,
+#banner.carousel-fade .carousel-inner .active.right {opacity: 0;}
+#banner.carousel-fade .carousel-inner .active,
+#banner.carousel-fade .carousel-inner .next.left,
+#banner.carousel-fade .carousel-inner .prev.right {opacity: 1;}
+#banner.carousel-fade .carousel-inner .next,
+#banner.carousel-fade .carousel-inner .prev,
+#banner.carousel-fade .carousel-inner .active.left,
+#banner.carousel-fade .carousel-inner .active.right {left: 0; -webkit-transform: translate3d(0, 0, 0); transform: translate3d(0, 0, 0);}
+#banner.carousel-fade .carousel-control {z-index: 2;}
+#banner .carousel-control .fa-angle-right, #banner .carousel-control .fa-angle-left {position: absolute; top: 50%; z-index: 5; display: inline-block;}
+#banner .carousel-control .fa-angle-left{left: 50%; width: 38px; height: 38px; margin-top: -15px; font-size: 30px; color: #fff; border: 3px solid #ffffff; -webkit-border-radius: 23px; -moz-border-radius: 23px; border-radius: 53px;}
+#banner .carousel-control .fa-angle-right{right: 50%; width: 38px; height: 38px; margin-top: -15px; font-size: 30px; color: #fff; border: 3px solid #ffffff; -webkit-border-radius: 23px; -moz-border-radius: 23px; border-radius: 53px;}
+#banner .carousel-control {opacity: 1; filter: alpha(opacity=100);}
